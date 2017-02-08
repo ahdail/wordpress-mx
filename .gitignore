@@ -3,8 +3,8 @@
 .gitignore.swp
 index.php
 /languages
-/plugins		
-/themes/twentyfifteen	
-/themes/twentyseventeen	
-/themes/twentysixteen
+wp-content/plugins		
+wp-content/themes/twentyfifteen	
+wp-content/themes/twentyseventeen	
+wp-content/themes/twentysixteen
 
