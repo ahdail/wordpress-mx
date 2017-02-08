@@ -1,0 +1,9 @@
+# Adds .gitignore file
+
+index.php
+/languages
+/plugins		
+/themes/twentyfifteen	
+/themes/twentyseventeen	
+/themes/twentysixteen
+
