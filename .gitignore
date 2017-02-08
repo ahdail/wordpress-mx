@@ -1,5 +1,6 @@
 # Adds .gitignore file
 
+.gitignore.swp
 index.php
 /languages
 /plugins		
